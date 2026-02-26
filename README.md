@@ -3,7 +3,7 @@
 
 # Nabeel Rahman | AI & Data Engineer 
 
-I am a dedicated **AI and Data Engineer ** with expertise in Generative AI, Deep Learning, NLP, and Machine Learning. I specialize in building intelligent, data-driven solutions using the latest tools and technologies.  
+I am a dedicated **AI and Data Engineer** with expertise in Generative AI, Deep Learning, NLP, and Machine Learning. I specialize in building intelligent, data-driven solutions using the latest tools and technologies.  
 
 ---
 
