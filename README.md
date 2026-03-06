@@ -1,66 +1,126 @@
-<!-- HEADER IMAGE -->
+<h1 align="center">Hi, I'm  Nabeel Rahman k </h1>
 
-
-# Nabeel Rahman | AI & Data Engineer 
-
-I am a dedicated **AI and Data Engineer** with expertise in Generative AI, Deep Learning, NLP, and Machine Learning. I specialize in building intelligent, data-driven solutions using the latest tools and technologies.  
-
----
-
-## About Me
-I am passionate about transforming data into insights and AI concepts into practical solutions. My experience spans:
-
-- **Programming & Development:** Python, SQL, C++, C, HTML, CSS  
-- **Data Science & AI:** Machine Learning, Deep Learning, NLP, Generative AI, EDA  
-- **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, Flask, FastAPI, Streamlit  
-
-I enjoy  building real-world AI projects, and exploring the latest trends in AI research and applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Computer+Vision+Developer;Generative+AI+Builder;Building+Scalable+AI+Systems" />
+</p>
 
 ---
 
-## Skills
+## 👨‍💻 About Me  
 
-### Programming Languages
-| Python | SQL | C++ | C | HTML | CSS |
-|--------|-----|----|---|------|-----|
-| ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFE873) | ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=4479A1) | ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C) | ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC) | ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26) | ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6) |
-
-### AI & Data Science
-| Machine Learning | Deep Learning | NLP | Generative AI | EDA |
-|-----------------|---------------|-----|---------------|-----|
-| ![ML](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=scikitlearn&logoColor=F7931E) | ![DL](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=tensorflow&logoColor=FF6F00) | ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat&logo=python&logoColor=FF6F00) | ![Generative AI](https://img.shields.io/badge/-Generative_AI-333333?style=flat&logo=openai&logoColor=FF6F00) | ![EDA](https://img.shields.io/badge/-EDA-333333?style=flat&logo=matplotlib&logoColor=FF6F00) |
-
-### Web & Deployment
-| Flask | FastAPI | Streamlit |
-|-------|---------|-----------|
-| ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=000000) | ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=009688) | ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit&logoColor=FF4B4B) |
+💡 Passionate and detail-oriented **AI Engineer / Data Scientist** with a strong interest in building scalable AI solutions.  
+⚡ Hands-on experience in end-to-end AI development, multimodal RAG systems, and real-time computer vision projects.  
+🎯 Open to entry-level AI / Data Science opportunities to work on impactful projects and grow professionally.  
 
 ---
 
+## 🛠 Tech Stack  
+
+### 🚀 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+### 👁 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
+![Pose Estimation](https://img.shields.io/badge/Pose%20Estimation-00C853?style=for-the-badge)
+![Real-time Tracking](https://img.shields.io/badge/Real--Time%20Tracking-2962FF?style=for-the-badge)
+
+### 🤖 AI / Generative AI  
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C7B7?style=for-the-badge)   
+
+### 🌐 Web & Deployment  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-FF9900?style=for-the-badge)
+
+---
+
+## 🔥 Featured Projects  
+
+### 🌏 RAG-Based-AI-Vehicle-Diagnostic-System-with-Image-Understanding
+- Multimodal RAG system with semantic retrieval & hallucination control  
+- Groq + vision architecture    
+- Clearly explaining vehicle diagnosis   
+
+### 🏋️ AI Kinematics – Exercise Trainer & Form Evaluator  
+- Custom YOLOv8 Pose dataset (1100 frames)  
+- Real-time rep counting & posture correction  
+- Audio coaching + performance analytics  
+- Flask + OpenCV deployment  
+  
+
+---
+
+## 📈 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nabeel813&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel813&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 
 
 ---
 
-## Selected Projects
-| Project | Description | Tools |
-|---------|------------|-------|
-| AI Kinematics Exercise Trainer | Computer vision Project | Computer Vision, Human Pose Estimation |Opencv,Yolov8pose estimation
-| Clinical Support Chatbot|Developed an AI-powered Medical Chatbot to provide basic healthcare information | transformer,torch,pickle,scikit-learn|
-| AI Vehicle Diagnostic Assistant |Multimodal AI and RAG can transform vehicle diagnostics | Rag,Blip.Tensorflow|
-| AI-subsidy allocation for farmers| predicts subsidy eligibility and allocation using machine learning models | Flask,Machine learning,Numpy,Pandas |
+## 🎓 Education  
 
-> More projects available on [GitHub repositories](https://github.com/nabeel813)
+🎓 Diploma in Artificial Intelligence & Data Engineering 
+🎓 B.com in Computer Application
+---
+
+## 🌎 Languages  
+
+English | Malayalam  
 
 ---
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/nabeel-rahman-5892263a8/) | [Email](mailto:nblnbl224@gmail.com)
+## 📊 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel813&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-## Statement
-I believe **AI is the key to unlocking insights from data**, and my mission is to make AI accessible, practical, and impactful through teaching and real-world projects.
+## 🤝 Let's Connect  
 
+If you're interested in AI, Generative AI, RAG systems, or Computer Vision — let's collaborate and build something impactful 🚀  
+
+---
+
+## 📬 Contact Me  
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/nabeel-rahman-5892263a8/](https://www.linkedin.com/in/nabeel-rahman-5892263a8/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nabeel813>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+- 📧 Email: nblnbl224@gmail.com  
+- 📞 +91-8590784962
+
+⭐ *Building Intelligent Systems That Solve Real-World Problems*
 <!--
 **nabeel813/nabeel813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
